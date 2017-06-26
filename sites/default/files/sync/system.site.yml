@@ -1,0 +1,14 @@
+uuid: 28895d57-f2b2-48dc-b580-442dd41226a7
+name: 'Dr8 Card 1 Prod'
+mail: email@email.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
